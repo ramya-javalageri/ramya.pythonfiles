@@ -1,0 +1,45 @@
+player_id,player_name,team,match_date,runs,wickets,catches
+1,Virat Kohli,RCB,2019-04-15,45,0,1
+2,Ms Dhoni,CSK,2019-03-23,27,0,2
+3,Rohit Sharma,MI,2019-05-06,67,0,1
+1,Virat Kohli,RCB,2020-09-20,56,0,0
+4,Rajat,RCB,2020-10-15,12,0,0
+5,AB de Villiers,RCB,2020-11-02,82,0,2
+6,Suresh Raina,CSK,2020-09-25,31,0,1
+7,Hardik Pandya,MI,2020-10-28,44,2,1
+8,KL Rahul,RCB,2020-11-10,69,0,1
+9,Yuzvendra Chahal,RCB,2020-09-10,0,2,0
+10,Jasprit Bumrah,MI,2020-10-20,0,3,0
+1,Virat Kohli,RCB,2021-04-10,71,0,1
+3,Rohit Sharma,MI,2021-05-15,92,0,2
+2,Ms Dhoni,CSK,2021-04-25,35,0,1
+11,Shikhar Dhawan,DC,2021-06-01,53,0,1
+12,Ravindra Jadeja,CSK,2021-07-10,23,1,1
+13,Chris Gayle,RCB,2021-08-15,41,0,0
+14,Kieron Pollard,MI,2021-09-20,29,0,1
+15,Dinesh Karthik,RCB,2021-10-10,18,0,0
+16,Ajinkya Rahane,RR,2021-11-01,42,0,1
+17,Steven Smith,RR,2021-12-05,67,0,1
+18,David Warner,SRH,2022-03-20,56,0,1
+19,Bhuvneshwar Kumar,SRH,2022-04-15,0,2,0
+20,Rashid Khan,SRH,2022-05-10,0,1,0
+1,Virat Kohli,RCB,2022-06-05,85,0,2
+3,Rohit Sharma,MI,2022-07-15,109,0,1
+2,Ms Dhoni,CSK,2022-08-20,49,0,1
+11,Shikhar Dhawan,DC,2022-09-10,71,0,2
+12,Ravindra Jadeja,CSK,2022-10-15,32,1,1
+13,Chris Gayle,RCB,2022-11-05,59,0,1
+14,Kieron Pollard,MI,2022-12-01,43,0,1
+15,Dinesh Karthik,RCB,2023-01-10,25,0,0
+16,Ajinkya Rahane,RR,2023-02-15,51,0,1
+17,Steven Smith,RR,2023-03-20,82,0,2
+18,David Warner,SRH,2023-04-10,73,0,1
+19,Bhuvneshwar Kumar,SRH,2023-05-15,0,3,0
+20,Rashid Khan,SRH,2023-06-05,0,2,0
+1,Virat Kohli,RCB,2023-07-10,95,0,2
+3,Rohit Sharma,MI,2023-08-15,123,0,1
+2,Ms Dhoni,CSK,2023-09-20,61,0,1
+11,Shikhar Dhawan,DC,2023-10-10,85,0,2
+12,Ravindra Jadeja,CSK,2023-11-05,39,1,1
+13,Chris Gayle,RCB,2023-12-01,66,0,1
+14,Kieron Pollard,MI,2024-01-10,54,0,1
